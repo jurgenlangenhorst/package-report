@@ -29,5 +29,7 @@ get_climates <- function() {
 #add testing commit for git
 c=rnorm(20,3,3)
 
+print(c[15])
+
 # This example originally used in Amanda Gadrow's excellent debugging talk at rstudio::conf 2018,
 # https://github.com/ajmcoqui/debuggingRStudio/blob/b70a3575a3ff5e7867b05fb5e84568abba426c4b/error_example.R
